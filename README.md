@@ -19,7 +19,8 @@
 #### Main Repositories
 
 [![Divinepet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinepet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **divinepet/divinepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Braydon's GitHub Banner](https://pbs.twimg.com/media/ET_CkQLXsAEYRf6.jpg)]

@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](https://pbs.twimg.com/media/ET_CkQLXsAEYRf6.jpg)](https://braydoncoyer.dev
+
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/elaronda?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divinepet&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)

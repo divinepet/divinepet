@@ -1,5 +1,3 @@
-[![Braydon's GitHub Banner](https://cdn-icons-png.flaticon.com/128/356/356028.png)]
-
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/elaronda?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divinepet&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
@@ -17,6 +15,26 @@
 ![ANDROIDSTUDIO](https://img.shields.io/badge/-AndroidStudio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
 ![DOCKER](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+#### Main Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
 <!--
 **divinepet/divinepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Braydon's GitHub Banner](https://pbs.twimg.com/media/ET_CkQLXsAEYRf6.jpg)]

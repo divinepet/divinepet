@@ -16,7 +16,7 @@
 ![DOCKER](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
-[![Divinepet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinepet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Divinepet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinepet&show_icons=true&title_color=9d00a8&border_radius=12&icon_color=9d00a8)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Main Repositories
 

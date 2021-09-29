@@ -16,10 +16,11 @@
 ![DOCKER](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
+[![Divinepet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinepet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Main Repositories
 
-[![Divinepet's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinepet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **divinepet/divinepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

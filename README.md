@@ -19,11 +19,11 @@
 
 #### Main Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice&show_icons=true&border_radius=16&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/NetPractice)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=TanksGame&show_icons=true&border_radius=16&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=TanksGame&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/TanksGame)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=JavaMultiChat&show_icons=true&border_radius=16&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=JavaMultiChat&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/JavaMultiChat)
 
 <!--
 **divinepet/divinepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

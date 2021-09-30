@@ -1,8 +1,6 @@
-<div align=center>
   
-  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/elaronda?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+ [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/elaronda?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
   
-</div>
 
 <!--
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
@@ -19,14 +17,14 @@
 ![DOCKER](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
 -->
-<div align=center>
+<!-- <div align=center width="100%"> -->
+<br/><br/>
 <img height="60" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c">  <img height="60" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes">
 <br/>
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"> <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="maven">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"> <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql">
 <br/>
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="ang">
 
-<br/><br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divinepet&theme=buefy&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,7 +37,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=JavaMultiChat&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/JavaMultiChat)
 
   
-</div>
+<!-- </div> -->
 <!--
 **divinepet/divinepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Braydon's GitHub Banner](https://pbs.twimg.com/media/ET_CkQLXsAEYRf6.jpg)]

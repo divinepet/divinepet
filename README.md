@@ -25,6 +25,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=JavaMultiChat&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/JavaMultiChat)
 
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/divinepet/NetPractice" title="NetPractice"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice&show_icons=true&border_radius=16&theme=buefy"></a><a align="right" href="https://github.com/divinepet/TanksGame" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=TanksGame&show_icons=true&border_radius=16&theme=buefy"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
 <!--
 **divinepet/divinepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Braydon's GitHub Banner](https://pbs.twimg.com/media/ET_CkQLXsAEYRf6.jpg)]

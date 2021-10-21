@@ -39,6 +39,8 @@
 
 #### Main Repositories
 
+
+### NetPractice 42
 [![42 NetPractice](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/NetPractice)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=TanksGame&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/TanksGame)

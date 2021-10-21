@@ -40,7 +40,8 @@
 #### Main Repositories
 
 
-##### NetPractice 42
+* [NetPractice](https://github.com/ifanzilka/NetPractice)
+
 [![42 NetPractice](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/NetPractice)
 
 #### Tanks Game Java

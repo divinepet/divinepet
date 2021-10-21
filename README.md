@@ -1,6 +1,27 @@
-  
  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/elaronda?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-  
+
+
+<!--
+<img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img src="https://img.shields.io/badge/-C-E34F26?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-E34F26?style=flat&logo=CPLUSPLUS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-BASH-E34F26?style=flat&logo=CONSOLE&logoColor=white"/>
+<img src="https://img.shields.io/badge/-DOCKER-E34F26?style=flat&logo=DOCKER&logoColor=white"/>
+<img src="https://img.shields.io/badge/-KUBERNETES-E34F26?style=flat&logo=KUBERNETES&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JAVA-E34F26?style=flat&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MAVEN-E34F26?style=flat&logo=MAVEN&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SPRING-E34F26?style=flat&logo=SPRING&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-POSTGRESQL-E34F26?style=flat&logo=POSTGRESQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-E34F26?style=flat&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-E34F26?style=flat&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-E34F26?style=flat&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-E34F26?style=flat&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-E34F26?style=flat&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-E34F26?style=flat&logo=MYSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS-E34F26?style=flat&logo=CSS3&logoColor=white"/>
+
+-->
 
 <!--
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)

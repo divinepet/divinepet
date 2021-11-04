@@ -14,43 +14,20 @@
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
 <img src="https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ANGULAR-DD0031?style=for-the-badge&logo=ANGULAR&logoColor=white"/>
-<!--
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![JAVA](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![POSTGRESQL](https://img.shields.io/badge/-Postgresql-0064a5?logo=postgresql&logoColor=white&style=for-the-badge)
-![SPRING](https://img.shields.io/badge/-Spring-6cb43c?logo=spring&logoColor=white&style=for-the-badge)
 
-![JAVASCRIPT](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
-![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![ANGULAR](https://img.shields.io/badge/-AngularJS-E23237?logo=angularjs&logoColor=white&style=for-the-badge)
-![JQUERY](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+</br>
 
-![ANDROIDSTUDIO](https://img.shields.io/badge/-AndroidStudio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
-![DOCKER](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![GIT](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
- <div align=center width="100%">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c">  <img height="60" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes">
-
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"> <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="maven">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"> <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql">
-
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap">  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="ang">
---> </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divinepet&theme=buefy&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Main Repositories
-
-
-* [NetPractice](https://github.com/ifanzilka/NetPractice)
-
-[![42 NetPractice](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/NetPractice)
-
-#### Tanks Game Java
+### Main Repositories
+ 
+[![42 NetPractice](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=NetPractice&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/NetPractice)                 [![42 ft-containers-unit-test](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=ft_containers-unit-test&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/ft_containers-unit-test)
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=TanksGame&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/TanksGame)
 
-#### Console Chat Java
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divinepet&repo=JavaMultiChat&show_icons=true&border_radius=16&theme=buefy)](https://github.com/divinepet/JavaMultiChat)
 
-  
+</div>
 <!-- </div> -->
 <!--
 **divinepet/divinepet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

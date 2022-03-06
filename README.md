@@ -1,7 +1,8 @@
  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/elaronda?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) </br>
 <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> </br>
-<img src="https://img.shields.io/badge/-C-649bd2?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-C++-00599d?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
-<img src="https://img.shields.io/badge/-BASH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-649bd2?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599d?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JENKINS-f7f7f7?style=for-the-badge&logo=JENKINS&logoColor=black"/>
 <img src="https://img.shields.io/badge/-DOCKER-119fdb?style=for-the-badge&logo=DOCKER&logoColor=white"/>
 <img src="https://img.shields.io/badge/-KUBERNETES-326de5?style=for-the-badge&logo=KUBERNETES&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
@@ -12,8 +13,8 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
-<img src="https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-ANGULAR-DD0031?style=for-the-badge&logo=ANGULAR&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ANGULAR-DD0031?style=for-the-badge&logo=ANGULAR&logoColor=white"/> -->
 
 </br>
 

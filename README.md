@@ -1,4 +1,4 @@
- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/elaronda?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) </br>
+ [![elaronda's 42 stats](https://badge42.vercel.app/api/v2/cl1kxgbb3012509jmt4qq5da1/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42) </br>
 <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> </br>
 <img src="https://img.shields.io/badge/-C-649bd2?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599d?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
